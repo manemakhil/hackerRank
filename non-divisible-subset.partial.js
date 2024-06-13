@@ -1,4 +1,4 @@
-// Partially done
+// Problem partially done: https://www.hackerrank.com/challenges/non-divisible-subset/problem
 
 function nonDivisibleSubset(k, s) {
     // Write your code here
